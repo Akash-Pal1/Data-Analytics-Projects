@@ -1,0 +1,1 @@
+Contains all the data visualization generated in the projects in 600 dpi quality.
