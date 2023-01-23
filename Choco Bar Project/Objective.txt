@@ -10,7 +10,6 @@ Create a report to summarize your research. Include:
 What is the average rating by country of origin?
 How many bars were reviewed for each of those countries?
 Create plots to visualize findings for questions 1 and 2.
-Is the cacao bean's origin an indicator of quality?
 [Optional] How does cocoa content relate to rating? What is the average cocoa content for bars with higher ratings (above 3.5)?
 [Optional 2] Your research indicates that some consumers want to avoid bars with lecithin. Compare the average rating of bars with and without lecithin (L in the ingredients).
 Summarize your findings.
